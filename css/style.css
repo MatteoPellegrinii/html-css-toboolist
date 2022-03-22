@@ -16,12 +16,12 @@ header h1{
 }
 #greyzone{
     background-color: rgba(190, 190, 190, 0.322);
-    height: 1000px;
+    height: 800px;
     padding-top: 5%;
 }
 #whitezone{
     background-color: white;
-    height: 60%;
+    height: 80%;
     margin: 0px 25% 10px 25%;
     padding-top: 20px;
     border-radius: 10px;
