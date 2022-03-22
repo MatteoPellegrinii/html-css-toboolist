@@ -23,11 +23,13 @@ header h1{
     background-color: white;
     height: 80%;
     margin: 0px 25% 10px 25%;
-    padding-top: 50px;
+    padding-top: 20px;
     border-radius: 10px;
 }
 .buttons{
     padding-left: 5%;
+    border-bottom: solid #ccc;
+    height: 60px;
 }
 #task-button{
     color: white;
@@ -49,6 +51,30 @@ header h1{
     font-size: 12px; 
     border-color: #ccc;
 }
+
+/* testo */
+.testo{
+    padding-left: 5%;
+    padding-top: 5%;
+    font-size: 18px;
+}
+.editorial{
+    font-size: 12px;
+    display: inline-block;
+    margin-left: 10px;
+    background-color: rgb(0, 184, 184);
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    padding: 5px 5px;
+}
+#today{
+    margin-top: 5%;
+}
+.testo div{
+    margin-top: 7px;
+}
+
 
 
 
