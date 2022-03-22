@@ -1,14 +1,59 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 header{
     margin-left: 20px;
 }
 header h1{
     display: inline-block;
-    font-size: 50px;
+    font-size: 100px;
 }
-section{
+#logo{
+    display: inline-block;
+    width: 5%;
+}
+#greyzone{
     background-color: rgba(190, 190, 190, 0.322);
+    height: 1000px;
+    padding-top: 5%;
 }
+#whitezone{
+    background-color: white;
+    height: 80%;
+    margin: 0px 25% 10px 25%;
+    padding-top: 50px;
+    border-radius: 10px;
+}
+.buttons{
+    padding-left: 5%;
+}
+#task-button{
+    color: white;
+    background-color: rgb(94, 180, 209);
+    border-radius: 5px;
+    background-size: 100px;
+    width: 80px;
+    height: 40px;
+    font-size: 12px; 
+    border-color: #ccc;
+}
+#add-button{
+    color: #ccc;
+    background-color: white;
+    border-radius: 5px;
+    background-size: 100px;
+    width: 80px;
+    height: 40px;
+    font-size: 12px; 
+    border-color: #ccc;
+}
+
+
+
+
+
+
+
+
