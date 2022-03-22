@@ -130,6 +130,24 @@ header h1{
     color: white;
     padding: 5px 5px; 
 }
+.circle {
+    border-radius: 50%;
+    border: solid green;
+    color: green;
+    padding-right: 2px;
+    padding-left: 2px;
+    text-align: center;
+    margin-right: 5px;
+}
+.circlered {
+    border-radius: 50%;
+    border: solid red;
+    color: red;
+    padding-right: 2px;
+    padding-left: 2px;
+    text-align: center;
+    margin-right: 5px;
+}
 
 
 
