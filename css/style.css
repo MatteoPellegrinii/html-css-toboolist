@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    margin-left: 20px;
+}
+header h1{
+    display: inline-block;
+    font-size: 50px;
+}
+section{
+    background-color: rgba(190, 190, 190, 0.322);
+}
